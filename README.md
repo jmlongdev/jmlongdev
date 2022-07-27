@@ -19,7 +19,6 @@
 
 ---
 
-### 🚨 🚧 Readme Under construction 🚧 🚨
 
 ### 👨‍💻: About Me:
 
@@ -29,7 +28,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: 
 
-- :zap: In my free time, I continue developing my skills to one day become a professional Developer.
+- :zap: I currently eat, sleep, and breate software development. Its electrifying!
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-long-lat-scat-atc-0403aa239/)
 
@@ -67,5 +66,4 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 --- 
 
-### ✍️ Blog Posts : 
 
