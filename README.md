@@ -26,7 +26,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I am currently learning TypeScript
 
-- :seedling: 
+- :seedling: Hoping to one day become a fullstack developer!
 
 - :zap: I currently eat, sleep, and breate software development. Its electrifying!
 
