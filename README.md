@@ -24,7 +24,7 @@
 
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I am currently learning React.js and Redux
+- :telescope: I am currently learning TypeScript
 
 - :seedling: 
 
